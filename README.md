@@ -21,6 +21,12 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 
 ---
 
+## Network Architecture
+
+![VPC Network Diagram](Architercture/aws-vpc-network-diagram.png)
+
+---
+
 ## 🛠️ Steps to Deploy
 
 ### 1. Upload Website to S3
