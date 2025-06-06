@@ -23,7 +23,7 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 
 ## Network Architecture
 
-![VPC Network Diagram](Architercture/aws-vpc-network-diagram.png)
+![VPC Network Diagram](Architercture/.png)
 
 ---
 
