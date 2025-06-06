@@ -53,16 +53,22 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 ---
 
 ## 📸 Screenshots 
-**Cloud Front**
+
+- **S3 bucket setup**
+![cloud front](Images/S3-Bucket.png)
+
+- **CloudFront**
 ![cloud front](Images/Cloud-front.png)
 
-**S3 bucket setup**
-![cloud front](Images/Cloud-front.png)
-- S3 bucket setup
-- CloudFront configuration
-- Route 53 hosted zone
-- Final live site
-- -![Output Screenshots](Images/output.png)
+- **Route53-hosted-zones**
+![CloudFront configuration](Images/Route53-hosted-zones.png)
+
+- **SSl-Certificate**
+![CloudFront configuration](Images/SSL-Certificate.png)
+
+- **Final-Live-Site**
+![Final-live-site](Images/Final-live-Site.png)
+  
 ---
 
 ## 📌 Learnings
