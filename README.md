@@ -67,7 +67,7 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 ![CloudFront configuration](Images/SSL-Certificate.png)
 
 - **Final-Live-Site**
-![Final-live-site](Images/Final-live-Site.png)
+![Final-Live-Site](Images/Final-Live-Site.png)
   
 ---
 
