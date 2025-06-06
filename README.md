@@ -64,6 +64,6 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/omkar-cloud-engineer)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omkar-cloud-engineer/)
 ---
 
