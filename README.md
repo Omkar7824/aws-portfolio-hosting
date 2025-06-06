@@ -16,7 +16,7 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 
 ## 🌍 Live Website
 
-🔗 [https://omkarcloudengineer.com](https://omkarcloudengineer.com)  
+🔗 [https://omkarcloudengineer.in](https://omkarcloudengineer.in)  
 (Domain connected via Route 53 and HTTPS secured by CloudFront + ACM)
 
 ---
