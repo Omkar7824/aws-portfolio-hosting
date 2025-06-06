@@ -52,7 +52,8 @@ This project demonstrates how I hosted my personal portfolio website using **AWS
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Output Screenshots (Optional)
+-![Output Screenshots](Images/output.png)
 - S3 bucket setup
 - CloudFront configuration
 - Route 53 hosted zone
